@@ -24,7 +24,7 @@ global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //owner v card
-global.vcardowner = ['+380944814219'] //ur owner number
+global.vcardowner = ['+94 74 021 4277'] //ur owner number
 global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" //ur owner name
 global.ytname = "" //ur yt chanel name
 global.socialm = "GitHub: prabhasha2006" //ur github or insta name
@@ -42,16 +42,16 @@ global.owner = ['+380944814219']
 global.ownertag = '+380944814219' //your tag number
 global.premium = ['+380944814219'] //your premium numbers
 global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //your bot name
-global.packname = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker packname
+global.packname = "SHENUWA" // sticker packname
 global.author = "Bot Sticker" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //In list menu
+global.footer = '[ ◉ Shenu ]' //In list menu
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
 
 //other
-global.sessionName = 'session'
+global.sessionName = 'SHENUWA'
 global.antitags = false
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sp = '💠'
